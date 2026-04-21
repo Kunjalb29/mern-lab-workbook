@@ -1,0 +1,6 @@
+{
+  "name": "mern-app",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
