@@ -1,4 +1,4 @@
-﻿# 🧪 Experiments – MERN Stack Lab
+# 🧪 Experiments – MERN Stack Lab
 
 This directory contains all the **experiment-wise implementations** for the MERN Stack Web Development Lab. Each experiment is organized in a structured format to ensure clarity, reproducibility, and proper documentation.
 
