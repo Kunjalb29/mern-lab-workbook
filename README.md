@@ -1,7 +1,0 @@
-﻿# MERN Lab Workbook
-
-## Aim
-To understand React components and how they are used.
-
-## Description
-React components are reusable building blocks of a user interface.

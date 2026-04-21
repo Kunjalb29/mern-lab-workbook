@@ -23,3 +23,6 @@ Answer: Using useState() in functional components.
 
 5. How to pass props?
 Answer: By passing attributes to components.
+
+## Result
+Successfully implemented props and state in React.
