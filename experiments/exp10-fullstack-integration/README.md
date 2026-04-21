@@ -13,3 +13,7 @@ The final experiment brings together all concepts to create a fully functional M
 2. **How does the frontend communicate with the backend?**
    **Ans:** The frontend makes HTTP requests (e.g. using Fetch or Axios) to the backend APIs.
 
+## Result
+The code for Full-Stack Integration was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
