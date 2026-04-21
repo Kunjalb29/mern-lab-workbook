@@ -13,3 +13,7 @@ This experiment covers building RESTful APIs using Express to perform CRUD opera
 2. **Which HTTP methods correspond to CRUD?**
    **Ans:** POST (Create), GET (Read), PUT/PATCH (Update), DELETE (Delete).
 
+## Result
+The code for CRUD Operations was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
