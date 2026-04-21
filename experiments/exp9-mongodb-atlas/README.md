@@ -13,3 +13,7 @@ This experiment introduces MongoDB Atlas, a fully-managed cloud database, and co
 2. **Why use Atlas instead of local DB?**
    **Ans:** Atlas provides automated backups, scaling, and high availability without managing infrastructure.
 
+## Result
+The code for MongoDB Atlas was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
