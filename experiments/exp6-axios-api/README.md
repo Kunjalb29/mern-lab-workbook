@@ -13,3 +13,7 @@ This experiment demonstrates making asynchronous HTTP requests to a REST API usi
 2. **How does Axios differ from Fetch API?**
    **Ans:** Axios automatically transforms JSON data, has better error handling, and supports request interception and cancellation out of the box.
 
+## Result
+The code for Axios / API calls was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
