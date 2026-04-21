@@ -13,3 +13,7 @@ This experiment introduces the core building blocks of React applications, which
 2. **What are the two main types of components in React?**
    **Ans:** Functional components and Class components.
 
+## Result
+The code for React Components was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
