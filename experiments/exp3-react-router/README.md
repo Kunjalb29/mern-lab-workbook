@@ -13,3 +13,7 @@ This experiment demonstrates how to use react-router-dom to navigate between dif
 2. **What is the difference between BrowserRouter and HashRouter?**
    **Ans:** BrowserRouter uses the HTML5 history API for clean URLs, while HashRouter uses the hash portion of the URL, which is useful for static file servers.
 
+## Result
+The code for React Router was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
