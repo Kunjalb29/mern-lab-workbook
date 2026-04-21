@@ -13,3 +13,7 @@ This experiment focuses on using Material UI, a popular React UI framework, to b
 2. **How do you install Material UI?**
    **Ans:** Using npm: npm install @mui/material @emotion/react @emotion/styled
 
+## Result
+The code for Material UI was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
