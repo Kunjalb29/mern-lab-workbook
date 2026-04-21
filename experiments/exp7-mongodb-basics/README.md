@@ -13,3 +13,7 @@ In this experiment, we set up a connection to a local or remote MongoDB database
 2. **What is Mongoose?**
    **Ans:** Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js.
 
+## Result
+The code for MongoDB Basics was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
