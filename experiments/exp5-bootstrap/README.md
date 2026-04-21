@@ -13,3 +13,7 @@ This experiment involves integrating Bootstrap into a React project to leverage 
 2. **Can you use standard Bootstrap in React?**
    **Ans:** Yes, but react-bootstrap is often preferred as it replaces Bootstrap javascript with React components.
 
+## Result
+The code for Bootstrap was successfully implemented and its output verified.
+
+![Result Output](./output/result.png)
